@@ -1,0 +1,13 @@
+.second-menu {
+    padding: 5px;
+}
+
+.todo-list>li {
+    border-radius: 2px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.7);
+    margin-bottom: 2px;
+    color: #444;
+    border: 1px dashed #bbbbbb;
+    border-left: 2px solid #00a65a;
+}
